@@ -10,6 +10,21 @@ Passionate about software architecture, clean code, and building scalable high-p
 
 ---
 
+
+### 📊 GitHub Stats
+
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaeII&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaeII&layout=compact&langs_count=8&theme=tokyonight"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaeII&theme=tokyonight" alt="GitHub Streak" />
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaeII&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="50%" min-width="200px" />
+
+
+---
+
+
 ### 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,18 +41,6 @@ Passionate about software architecture, clean code, and building scalable high-p
 
 ---
 
-### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaeII&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaeII&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaeII&theme=tokyonight" alt="GitHub Streak" />
-
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaeII&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RaeII&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
